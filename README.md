@@ -1,3 +1,6 @@
 # torchpruning
-DNN Gradient Pruning using PyTorch
-Train on FashionMnist dataset
+Building DNN with quantized convolution layers using PyTorch.
+
+Perform Stochastic Pruning and Rounding and Grouping on gradients in backward pass.
+
+Train on FashionMnist dataset.
