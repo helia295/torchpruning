@@ -1,2 +1,2 @@
 # torchpruning
-All about Gradient Pruning using PyTorch
+All about DNN Gradient Pruning using PyTorch
