@@ -1,2 +1,3 @@
 # torchpruning
-All about DNN Gradient Pruning using PyTorch
+DNN Gradient Pruning using PyTorch
+Train on FashionMnist dataset
